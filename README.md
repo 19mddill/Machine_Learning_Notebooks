@@ -127,8 +127,3 @@ Notes:
 
 Structure, datasets and many code patterns follow Aurélien Géron's *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* and its [companion code](https://github.com/ageron/handson-ml3). Experiments marked as "my own" above are my additions.
 
-## Contact
-
-- GitHub: [@19mddill](https://github.com/19mddill)
-- LinkedIn: _add your link_
-- Email: _add your email_
